@@ -105,18 +105,18 @@ endmodule
 
 
 ### TIMING DIGRAMS  
-![output(https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/2.PNG?raw=true)
+![output](https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/2.PNG?raw=true)
 
 
 
 
 ### TRUTH TABLE 
-![output(https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/3..PNG?raw=true)
+![output](https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/3..PNG?raw=true)
 
 ### RTL LOGIC  
 
 
-![output(https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/3.PNG?raw=true)
+![output](https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/3.PNG?raw=true)
 
 
 
@@ -124,13 +124,13 @@ endmodule
 
 ### TIMING DIGRAMS  
 
-![output(https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/4.PNG?raw=true)
+![output](https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/4.PNG?raw=true)
 
 
 
 ### TRUTH TABLE
 
-![output(https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/5.PNG?raw=true)
+![output](https://github.com/naramala-niharika/Exercise-07-Multiplexer-and-De--multiplexer/blob/main/5.PNG?raw=true)
 
 
 
